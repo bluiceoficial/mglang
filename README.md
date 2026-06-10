@@ -1,5 +1,8 @@
 # MGLang
 
+> [!NOTE]
+> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/mglang
+
 Uma biblioteca simples e leve em Go para **gerenciamento de traduções (i18n)**, com suporte a **detecção automática do idioma do sistema** e **formatação dinâmica de strings**.
 
 Ideal para aplicações desktop, CLI ou bibliotecas que precisam de internacionalização sem dependências pesadas.
